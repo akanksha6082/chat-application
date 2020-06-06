@@ -1,0 +1,25 @@
+.closed {
+  padding: 2px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 2em;
+  margin-right: 15px;
+  float: right;
+  color: black;
+  opacity: 0.6;
+}
+.button {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #38d39f;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  width: 100%;
+  /* float: right; */
+}
+

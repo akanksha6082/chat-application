@@ -1,0 +1,49 @@
+html,
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.logo {
+  height: 130px;
+}
+
+.welcontainer {
+  display: flex;
+  max-width: 700px;
+  margin-top: 10%;
+  margin-left: 32.5%;
+  height: 100%;
+  background-color: rgba(137, 43, 226, 0);
+  align-self: center;
+  align-content: center;
+  align-items: center;
+}
+
+.jumbotron {
+  min-height: 300px;
+  max-width: 650px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(26, 77, 53);
+  align-self: center;
+  text-align: center;
+}
+
+.welwave {
+  background-size: cover;
+  image-resolution: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 7.5%;
+  width: 100%;
+  z-index: 0;
+}
